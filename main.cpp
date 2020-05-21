@@ -1,6 +1,7 @@
 #include"head.h"
 int main()
 {
+	//github测试 
 	ListInitiate(&head);
 	Load();//加载已有的数据到链表
 	Menu();
